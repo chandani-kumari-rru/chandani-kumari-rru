@@ -43,7 +43,7 @@ My academic and practical interests include **Digital Forensics, Cyber Crime Inv
 
 ---
 
-<h3 align="left">🖥️ Forensic Software</h3>
+<h3 align="left">🌱 Current Mastery- Forensic Software</h3>
 
 <p align="left">
 <a href="https://www.autopsy.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/287227237?s=280&v=4" alt="react" width="40" height="40"/> </a>
@@ -57,30 +57,7 @@ My academic and practical interests include **Digital Forensics, Cyber Crime Inv
   <a href="https://www.cybertriage.com/" target="_blank" rel="noreferrer"> <img src="https://media.imgcdn.org/repo/2025/09/cyber-triage-pro/68c94e3c93fc8-cyber-triage-pro-Icon.webp" alt="react" width="40" height="40"/> </a>
   <!-- <a href="" target="_blank" rel="noreferrer"> <img src="" alt="react" width="40" height="40"/> </a> -->
 
-
 </p>
-
----
-
-<h3 align="left">🌱 Currently Learning</h3>
-
-<p align="left">
-
-* 🔍 Digital Evidence Acquisition & Preservation
-* 💾 Disk Imaging & File System Analysis
-* 🖥️ Computer Forensics
-* 📱 Mobile Device Forensics
-* 🌐 Network Traffic & Packet Analysis
-* 🧠 Memory Forensics
-* 📞 CDR Analysis
-* 🗂️ Windows & Linux Forensic Artefacts
-* 🔐 Cyber Crime Investigation
-* 🧪 Forensic Evidence Examination
-* ⚖️ Chain of Custody & Evidence Handling
-* 📑 Forensic Documentation & Reporting
-
-</p>
-
 
 ---
 
