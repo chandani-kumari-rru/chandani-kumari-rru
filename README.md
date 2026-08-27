@@ -164,12 +164,13 @@ My long-term goal is to contribute to **scientific and technology-driven crimina
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandani-kumari-rru&theme=dark" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=chandani-kumari-rru&theme=dark" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chandani-kumari-rru&layout=compact&langs_count=8&card_width=320&theme=dark" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandani-kumari-rru&layout=compact&langs_count=8&card_width=320&theme=dark" alt="Top Languages"/>
 </p>
+
 
 ---
 
