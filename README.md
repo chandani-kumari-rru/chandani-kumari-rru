@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=surajpratapsingh2025&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=chandani-kumari-rru&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 <img align="right" alt="Digital Forensics" width="400" src="https://cms.deltaline-it.com/uploads/forensics_b77d845322.gif">
