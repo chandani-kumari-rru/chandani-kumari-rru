@@ -26,7 +26,7 @@ My academic and practical interests include **Digital Forensics, Cyber Crime Inv
 
 ---
 
-<h3 align="left">🧰 Forensic Skills</h3>
+<h3 align="left">🧰 My Skills</h3>
 
 <p align="left">
 
