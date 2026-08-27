@@ -50,7 +50,7 @@ My academic and practical interests include **Digital Forensics, Cyber Crime Inv
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" alt="react" width="40" height="40"/> </a>
   <a href="https://www.magnetforensics.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.zonebourse.com/static/instruments-logo-122186760.png" alt="react" width="40" height="40"/> </a>
   <a href="https://www.cellebrite.com/" target="_blank" rel="noreferrer"> <img src="https://downloadlynet.ir/wp-content/uploads/2026/07/UFED-2.png" alt="react" width="40" height="40"/> </a>
-  <a href="https://oxygenforensics.com/" target="_blank" rel="noreferrer"> <img src="https://digitalintelligence.com/spree/products/1182/product/Blue_OFD_icon_04062023.png" alt="react" width="40" height="40"/> </a>
+  <a href="https://oxygenforensics.com/" target="_blank" rel="noreferrer"> <img src="https://teeltech.com/wp-content/uploads/2020/11/oxygen.png" alt="react" width="40" height="40"/> </a>
   <a href="https://www.volatilityfoundation.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-images.tryhackme.com/room-icons/bdd7dca765920c9724b54dea1d17761f.png" alt="react" width="40" height="40"/> </a>
   <a href="https://www.opentext.com/products/forensic" target="_blank" rel="noreferrer"> <img src="https://www.forensicstore.com/wp-content/uploads/2017/08/a21t4hli-3.bmp" alt="react" width="40" height="40"/> </a>
   <a href="https://www.sleuthkit.org/" target="_blank" rel="noreferrer"> <img src="https://www.sleuthkit.org/picts/hash3_v1_sm.jpg" alt="react" width="40" height="40"/> </a>
