@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=surajpratapsingh2025&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
-<img align="right" alt="Digital Forensics" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Digital Forensics" width="400" src="https://cms.deltaline-it.com/uploads/forensics_b77d845322.gif">
 
 ### 🔬 About Me
 
@@ -23,7 +23,7 @@ My academic and practical interests include **Digital Forensics, Cyber Crime Inv
 * 📱 Learning **Mobile & Computer Forensics**
 * 🌐 Exploring **Network Forensics & Cybercrime Investigation**
 * 🤯 Always ready to learn **new forensic skills and technologies**
-* 📫 Reach me at **[chandani.kumari.rru@gmail.com](mailto:chandani.kumari.rru@gmail.com)**
+* 📫 Reach me at **[k.c.sinha220@gmail.com](mailto:k.c.sinha220@gmail.com)**
 
 ---
 
@@ -177,8 +177,8 @@ My long-term goal is to contribute to **scientific and technology-driven crimina
 
 <p align="left">
 
-<a href="mailto:chandani.kumari.rru@gmail.com">
-<img src="https://img.shields.io/badge/Email-chandani.kumari.rru%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<a href="mailto:k.c.sinha220@gmail.com">
+<img src="https://img.shields.io/badge/Email-k.c.sinha220%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </p>
