@@ -46,16 +46,19 @@ My academic and practical interests include **Digital Forensics, Cyber Crime Inv
 <h3 align="left">🌱 Current Mastery- Forensic Software</h3>
 
 <p align="left">
-<a href="https://www.autopsy.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/287227237?s=280&v=4" alt="react" width="40" height="40"/> </a>
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" alt="react" width="40" height="40"/> </a>
-  <a href="https://www.magnetforensics.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.zonebourse.com/static/instruments-logo-122186760.png" alt="react" width="40" height="40"/> </a>
-  <a href="https://www.cellebrite.com/" target="_blank" rel="noreferrer"> <img src="https://downloadlynet.ir/wp-content/uploads/2026/07/UFED-2.png" alt="react" width="40" height="40"/> </a>
-  <a href="https://oxygenforensics.com/" target="_blank" rel="noreferrer"> <img src="https://teeltech.com/wp-content/uploads/2020/11/oxygen.png" alt="react" width="40" height="40"/> </a>
-  <a href="https://www.volatilityfoundation.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-images.tryhackme.com/room-icons/bdd7dca765920c9724b54dea1d17761f.png" alt="react" width="40" height="40"/> </a>
-  <a href="https://www.opentext.com/products/forensic" target="_blank" rel="noreferrer"> <img src="https://www.forensicstore.com/wp-content/uploads/2017/08/a21t4hli-3.bmp" alt="react" width="40" height="40"/> </a>
-  <a href="https://www.sleuthkit.org/" target="_blank" rel="noreferrer"> <img src="https://www.sleuthkit.org/picts/hash3_v1_sm.jpg" alt="react" width="40" height="40"/> </a>
-  <a href="https://www.cybertriage.com/" target="_blank" rel="noreferrer"> <img src="https://media.imgcdn.org/repo/2025/09/cyber-triage-pro/68c94e3c93fc8-cyber-triage-pro-Icon.webp" alt="react" width="40" height="40"/> </a>
-  <!-- <a href="" target="_blank" rel="noreferrer"> <img src="" alt="react" width="40" height="40"/> </a> -->
+  <a href="https://www.exterro.com/digital-forensics-software/ftk-forensic-toolkit" target="_blank" rel="noreferrer"> <img src="https://www.secureindia.in/wp-content/uploads/2013/06/FTK-Secure-India-300x239.png" alt="ftk" width="40" height="40"/> </a>
+  <a href="https://www.opentext.com/products/forensic" target="_blank" rel="noreferrer"> <img src="https://www.forensicstore.com/wp-content/uploads/2017/08/a21t4hli-3.bmp" alt="encase" width="40" height="40"/> </a>
+<a href="https://www.autopsy.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/287227237?s=280&v=4" alt="autopsy" width="40" height="40"/> </a>
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" alt="wireshark" width="40" height="40"/> </a>
+  <a href="https://www.magnetforensics.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.zonebourse.com/static/instruments-logo-122186760.png" alt="magnet" width="40" height="40"/> </a>
+  <a href="https://www.cellebrite.com/" target="_blank" rel="noreferrer"> <img src="https://downloadlynet.ir/wp-content/uploads/2026/07/UFED-2.png" alt="cellebrite" width="40" height="40"/> </a>
+  <a href="https://oxygenforensics.com/" target="_blank" rel="noreferrer"> <img src="https://teeltech.com/wp-content/uploads/2020/11/oxygen.png" alt="oxygen" width="40" height="40"/> </a>
+  <a href="https://www.volatilityfoundation.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-images.tryhackme.com/room-icons/bdd7dca765920c9724b54dea1d17761f.png" alt="volatility" width="40" height="40"/> </a>
+  <a href="https://fireeye.market/apps/211364" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/1*MoGWFVfzUBBnoUrJx0DbRQ.jpeg" alt="redline" width="40" height="40"/> </a>
+  <a href="https://www.sleuthkit.org/" target="_blank" rel="noreferrer"> <img src="https://www.sleuthkit.org/picts/hash3_v1_sm.jpg" alt="sleuth" width="40" height="40"/> </a>
+  <a href="https://www.cybertriage.com/" target="_blank" rel="noreferrer"> <img src="https://media.imgcdn.org/repo/2025/09/cyber-triage-pro/68c94e3c93fc8-cyber-triage-pro-Icon.webp" alt="cybertriage" width="40" height="40"/> </a>
+  <a href="https://www.kroll.com/en/services/cyber/reactive-services/kroll-artifact-parser-and-extractor-kape" target="_blank" rel="noreferrer"> <img src="https://aboutdfir.com/wp-content/uploads/kapeLogo.png" alt="kape" width="40" height="40"/> </a>
+  <!-- <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a> -->
 
 </p>
 
