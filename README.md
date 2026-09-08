@@ -55,7 +55,7 @@ My academic and practical interests include **Digital Forensics, Cyber Crime Inv
 
 ---
 
-<h3 align="left">🌱 Current Mastery- Forensic Software</h3>
+<h3 align="left">🌱 Unknown- Forensic Software</h3>
 
 <p align="left">
   <a href="https://www.opentext.com/products/forensic" target="_blank" rel="noreferrer"> <img src="https://www.forensicstore.com/wp-content/uploads/2017/08/a21t4hli-3.bmp" alt="encase" width="40" height="40"/> </a>
