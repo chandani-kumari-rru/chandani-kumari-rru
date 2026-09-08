@@ -53,6 +53,7 @@ My academic and practical interests include **Digital Forensics, Cyber Crime Inv
   <a href="https://www.magnetforensics.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.zonebourse.com/static/instruments-logo-122186760.png" alt="magnet" width="40" height="40"/> </a>
   <a href="https://www.cellebrite.com/" target="_blank" rel="noreferrer"> <img src="https://downloadlynet.ir/wp-content/uploads/2026/07/UFED-2.png" alt="cellebrite" width="40" height="40"/> </a>
   <a href="https://oxygenforensics.com/" target="_blank" rel="noreferrer"> <img src="https://teeltech.com/wp-content/uploads/2020/11/oxygen.png" alt="oxygen" width="40" height="40"/> </a>
+  <a href="https://www.mobiledit.com/" target="_blank" rel="noreferrer"> <img src="https://abbaspc.net/wp-content/uploads/2020/02/MOBILedit-Forensic-Express-Pro-Crack.png" alt="oxygen" width="40" height="40"/> </a>
   <a href="https://www.volatilityfoundation.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-images.tryhackme.com/room-icons/bdd7dca765920c9724b54dea1d17761f.png" alt="volatility" width="40" height="40"/> </a>
   <a href="https://fireeye.market/apps/211364" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/1*MoGWFVfzUBBnoUrJx0DbRQ.jpeg" alt="redline" width="40" height="40"/> </a>
   <a href="https://www.sleuthkit.org/" target="_blank" rel="noreferrer"> <img src="https://www.sleuthkit.org/picts/hash3_v1_sm.jpg" alt="sleuth" width="40" height="40"/> </a>
