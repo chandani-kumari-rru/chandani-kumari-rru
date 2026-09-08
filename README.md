@@ -59,10 +59,10 @@ My academic and practical interests include **Digital Forensics, Cyber Crime Inv
 
 <p align="left">
   <a href="https://www.opentext.com/products/forensic" target="_blank" rel="noreferrer"> <img src="https://www.forensicstore.com/wp-content/uploads/2017/08/a21t4hli-3.bmp" alt="encase" width="40" height="40"/> </a>
+  <a href="https://www.sleuthkit.org/" target="_blank" rel="noreferrer"> <img src="https://www.sleuthkit.org/picts/hash3_v1_sm.jpg" alt="sleuth" width="40" height="40"/> </a>
   <a href="https://www.magnetforensics.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.zonebourse.com/static/instruments-logo-122186760.png" alt="magnet" width="40" height="40"/> </a>
   <a href="https://www.cellebrite.com/" target="_blank" rel="noreferrer"> <img src="https://downloadlynet.ir/wp-content/uploads/2026/07/UFED-2.png" alt="cellebrite" width="40" height="40"/> </a>
   <a href="https://fireeye.market/apps/211364" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/1*MoGWFVfzUBBnoUrJx0DbRQ.jpeg" alt="redline" width="40" height="40"/> </a>
-  <a href="https://www.sleuthkit.org/" target="_blank" rel="noreferrer"> <img src="https://www.sleuthkit.org/picts/hash3_v1_sm.jpg" alt="sleuth" width="40" height="40"/> </a>
   <a href="https://www.cybertriage.com/" target="_blank" rel="noreferrer"> <img src="https://media.imgcdn.org/repo/2025/09/cyber-triage-pro/68c94e3c93fc8-cyber-triage-pro-Icon.webp" alt="cybertriage" width="40" height="40"/> </a>
   <a href="https://www.kroll.com/en/services/cyber/reactive-services/kroll-artifact-parser-and-extractor-kape" target="_blank" rel="noreferrer"> <img src="https://aboutdfir.com/wp-content/uploads/kapeLogo.png" alt="kape" width="40" height="40"/> </a>
   <!-- <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a> -->
