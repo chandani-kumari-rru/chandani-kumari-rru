@@ -43,7 +43,7 @@ My academic and practical interests include **Digital Forensics, Cyber Crime Inv
 
 ---
 
-<h3 align="left">🌱 Current Mastery- Forensic Software</h3>
+<h3 align="left">🌱 Handson- Forensic Software</h3>
 <p align="left">
   <a href="https://www.exterro.com/digital-forensics-software/ftk-forensic-toolkit" target="_blank" rel="noreferrer"> <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_83eb5b1baffc8e41b2588e9d221e03ba/ftk-forensic-toolkit.jpg" alt="ftk" width="40" height="40"/> </a>
   <a href="https://www.autopsy.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/287227237?s=280&v=4" alt="autopsy" width="40" height="40"/> </a>
