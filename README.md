@@ -45,16 +45,21 @@ My academic and practical interests include **Digital Forensics, Cyber Crime Inv
 
 <h3 align="left">🌱 Handson- Forensic Software</h3>
 <p align="left">
-  <a href="https://exiftool.org/" target="_blank" rel="noreferrer"> <img src="https://exiftools.com/logo-wbg.png" alt="exiftool" width="40" height="40"/> </a>
   <a href="https://www.exterro.com/digital-forensics-software/ftk-forensic-toolkit" target="_blank" rel="noreferrer"> <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_83eb5b1baffc8e41b2588e9d221e03ba/ftk-forensic-toolkit.jpg" alt="ftk" width="40" height="40"/> </a>
   <a href="https://www.autopsy.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/287227237?s=280&v=4" alt="autopsy" width="40" height="40"/> </a>
-  <a href="https://oxygenforensics.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.asp.events/CLIENT_Expositi_C43D86CE_5056_B733_493BD9501850F53D/sites/techno-security-east-2023/media/libraries/exhibitors/Oxygen-Forensics-loOVMz9w-logo-300px.png" alt="oxygen" width="40" height="40"/> </a>
-  <a href="https://www.mobiledit.com/" target="_blank" rel="noreferrer"> <img src="https://abbaspc.net/wp-content/uploads/2020/02/MOBILedit-Forensic-Express-Pro-Crack.png" alt="oxygen" width="40" height="40"/> </a>
+  <a href="https://ericzimmerman.github.io/" target="_blank" rel="noreferrer"> <img src="https://tse4.mm.bing.net/th/id/OIP.akXDFvD1LHvYziYISo9jVAAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Eric Zimmerman" width="40" height="40"/>
+  <a href="https://www.nirsoft.net/utils/index.html" target="_blank" rel="noreferrer"> <img src="https://davescomputertips.com/wp-content/uploads/2015/03/nirsoft-logo.png" alt="nirsoft" width="40" height="40"/>
+    <a href="https://github.com/RyanDFIR/hindsight/" target="_blank" rel="noreferrer"> <img src="https://www.realclipart.com/png/middle/277-2772041_hindsight-optometry-ergo-hestia.png" alt="hindsight" width="40" height="40"/>
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" alt="wireshark" width="40" height="40"/> </a>
   <a href="https://www.volatilityfoundation.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-images.tryhackme.com/room-icons/bdd7dca765920c9724b54dea1d17761f.png" alt="volatility" width="40" height="40"/> </a>
+  <a href="https://oxygenforensics.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.asp.events/CLIENT_Expositi_C43D86CE_5056_B733_493BD9501850F53D/sites/techno-security-east-2023/media/libraries/exhibitors/Oxygen-Forensics-loOVMz9w-logo-300px.png" alt="oxygen" width="40" height="40"/> </a>
+  <a href="https://www.mobiledit.com/" target="_blank" rel="noreferrer"> <img src="https://abbaspc.net/wp-content/uploads/2020/02/MOBILedit-Forensic-Express-Pro-Crack.png" alt="oxygen" width="40" height="40"/> </a>
+  <a href="https://www.thunderbird.net/en-US/desktop/" target="_blank" rel="noreferrer"> <img src="https://blog.thunderbird.net/files/2023/05/1024x1024@2x.png" alt="thunderbird" width="40" height="40"/>
+  <a href="https://exiftool.org/" target="_blank" rel="noreferrer"> <img src="https://exiftools.com/logo-wbg.png" alt="exiftool" width="40" height="40"/> </a>
 <a href="https://diamondcut.com/product/diamond-cut-forensics-10-6-audio-laboratory/" target="_blank" rel="noreferrer"> <img src="https://diamondcut.com/wp-content/uploads/2026/05/Dc_logoHiRezXparent-1024x292.png" alt="daimond cut Forensic" width="40" height="40"/> </a>
   <a href="https://ampedsoftware.com/five" target="_blank" rel="noreferrer"> <img src="https://cdfs.com.au/wp-content/uploads/2021/08/logo-five_black_text_featured_smaller_2.jpg" alt="Amped FIVE" width="40" height="40"/> </a>
-
+  
+  
   
 </p>
 
